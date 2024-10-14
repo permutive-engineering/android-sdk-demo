@@ -1,0 +1,32 @@
+[
+  {
+    "id": "123",
+    "title": "New AI technology released",
+    "description": "A new long-awaited AI technology has been released at last.",
+    "imagePath": "article_picture.png"
+  },
+  {
+    "id": "122",
+    "title": "New AI technology released",
+    "description": "A new long-awaited AI technology has been released at last.",
+    "imagePath": "article_picture.png"
+  },
+  {
+    "id": "121",
+    "title": "New AI technology released",
+    "description": "A new long-awaited AI technology has been released at last.",
+    "imagePath": "article_picture.png"
+  },
+  {
+    "id": "120",
+    "title": "New AI technology released",
+    "description": "A new long-awaited AI technology has been released at last.",
+    "imagePath": "article_picture.png"
+  },
+  {
+    "id": "119",
+    "title": "New AI technology released",
+    "description": "A new long-awaited AI technology has been released at last.",
+    "imagePath": "article_picture.png"
+  }
+]
