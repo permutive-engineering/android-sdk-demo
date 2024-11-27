@@ -7,7 +7,7 @@ This project serves as an example for integrating the Permutive Android SDK. It 
 
 ## Adding the Permutive SDK
 
-We add `com.permutive.android:core:1.9.5` as a `releaseImplementation` to the relevant feature build.gradle files. Please check https://github.com/permutive/android-sdk/releases for the latest stable version. 
+We add `com.permutive.android:core:1.9.5` as a `releaseImplementation` to the relevant feature build.gradle files. Please check https://developer.permutive.com/docs/android for the latest stable version (please note that the developer docs require authentication). 
 
 ## Creating a Permutive instance 
 
